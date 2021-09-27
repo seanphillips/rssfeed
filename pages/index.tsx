@@ -3,7 +3,7 @@
 const Index = () => {
     return (
         <div>
-            <p>Index</p>
+            <p>New Index</p>
         </div>
     )
 }
